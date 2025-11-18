@@ -92,5 +92,5 @@ You are free to modify and use it for personal learning, experimentation, or aca
 _btech Student | Aspiring Developer | Exploring Blockchain & Space Tech_ 🚀
 
 contract details:0x6825a0f0cFAF6FF3825621b59c2D0a752ad00966
-<img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/048b5b18-b54c-488e-9d61-fda2b0db0c43" />
+<img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/048b5b18-b54c-488e-9d61-fda2b0db0c43"/>
 
